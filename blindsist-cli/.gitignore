@@ -1,0 +1,4 @@
+.venv
+detect.tflite
+models/
+__pycache__/
